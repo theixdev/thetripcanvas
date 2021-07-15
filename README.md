@@ -7,5 +7,5 @@ The sketch has voice activation and response to commands.  Speak the commands on
 
 During any stage press a mouse button or keyboard to access print media promotional material.
 
-Note : Actual social media sharing not implemented and additional animations happen when the sketch detechs any sound from the mind.
-Additional Note : Stars collect if alt-tabbed, and shoot out at once but this corrects over time.
+Note : Requires P5Js libraries.
+![image](https://user-images.githubusercontent.com/77970786/125834187-984faad6-63da-4d43-b333-50251690242a.png)
